@@ -1,0 +1,1 @@
+Telefonní číslo z oblasti mimo Spojené Státy a Kanadu: (609) 452-0606

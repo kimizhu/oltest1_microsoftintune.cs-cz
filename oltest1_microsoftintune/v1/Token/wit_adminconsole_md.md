@@ -1,0 +1,1 @@
+Konzola pro správu Microsoft Intune

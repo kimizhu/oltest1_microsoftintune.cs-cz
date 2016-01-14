@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<caps:SxS xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11">
+  <caps:SxSTarget locale="cs-CZ">
+    <Token xmlns:xlink="http://www.w3.org/1999/xlink">Informace v této části mohou platit pouze pro uživatele, kteří licencují produkty společnosti Microsoft ve Spojených Státech. Pokud jste tento produkt získali v jiné zemi než v USA, můžete použít kartu s informacemi o pobočkách, která byla součástí vašeho softwarového balíčku, nebo navštívit <externalLink xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5"><linkText>web Microsoft Accessibility (Usnadnění)</linkText><linkUri>http://go.microsoft.com/fwlink/?LinkId=8431</linkUri></externalLink>, kde naleznete seznam telefonních čísel a adres na oddělení služeb podpory společnosti Microsoft. Zda jsou dané typu produktů a služeb popsaných v této části dostupné ve vaší oblasti si můžete ověřit u vaší pobočky. Informace o usnadnění jsou k dispozici i v dalších jazycích včetně japonštiny a francouzštiny.</Token>
+  </caps:SxSTarget>
+  <caps:SxSSource locale="en-US">
+    <Token xmlns:xlink="http://www.w3.org/1999/xlink">The information in this section may apply only to users who license Microsoft products in the United States. If you obtained this product outside of the United States, you can use the subsidiary information card that came with your software package or visit the <externalLink xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5"><linkText>Microsoft Accessibility website</linkText><linkUri>http://go.microsoft.com/fwlink/?LinkId=8431</linkUri></externalLink> for a list of Microsoft support services telephone numbers and addresses. You can contact your subsidiary to find out whether the type of products and services described in this section are available in your area. Information about accessibility is available in other languages, including Japanese and French.</Token>
+  </caps:SxSSource>
+</caps:SxS>

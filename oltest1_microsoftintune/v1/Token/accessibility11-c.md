@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Telefonní číslo ze Spojených Států: (800) 221-4792</Token>
