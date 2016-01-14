@@ -1,0 +1,1 @@
+Funkce usnadnění systému Windows

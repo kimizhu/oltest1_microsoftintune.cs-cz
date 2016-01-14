@@ -1,0 +1,1 @@
+Další informace o možnostech, jak technologie usnadnění v počítačích pomáhá zlepšovat život postižených osob, naleznete na [webové stránce Microsoft Accessibility](http://go.microsoft.com/fwlink/?LinkId=8431).

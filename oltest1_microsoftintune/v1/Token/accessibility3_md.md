@@ -1,0 +1,1 @@
+Dokumentace v alternativních formátech

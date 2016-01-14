@@ -1,0 +1,1 @@
+[Webová stránka společnosti Learning Ally](http://go.microsoft.com/fwlink/?LinkID=239)
